@@ -1,7 +1,7 @@
 .header-container {
     height:800px;
     position:relative;
-    background-image: url('../../../images/chairbg.png');
+    background-image: url('../../../images/chairBg.png');
     background-size: cover;
 }
 .header-container::after {
